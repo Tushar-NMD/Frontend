@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create an Axios instance
 const API = axios.create({
-    baseURL: import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000',
+    baseURL: import.meta.env.VITE_API_BASE_URL || 'https://fullstack-d5re.onrender.com/api',
 });
 
 // Request Interceptor to add the token

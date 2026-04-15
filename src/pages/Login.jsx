@@ -72,6 +72,7 @@ const Login = () => {
                   className="w-full bg-[#121212] border border-[#3A3A3A] text-white rounded-xl py-3 pl-10 pr-4 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder-gray-600"
                   placeholder="Enter your email"
                   required
+                  autoComplete="username"
                 />
               </div>
             </div>
@@ -89,6 +90,7 @@ const Login = () => {
                   className="w-full bg-[#121212] border border-[#3A3A3A] text-white rounded-xl py-3 pl-10 pr-4 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all placeholder-gray-600"
                   placeholder="Enter your password"
                   required
+                  autoComplete="current-password"
                 />
               </div>
             </div>

@@ -6,6 +6,11 @@ This step-by-step guide will help you install and run both the Frontend and Back
 - **Frontend (Live URL)**: [https://frontend-nine-gamma-76.vercel.app/](https://frontend-nine-gamma-76.vercel.app/)
 - **Backend (Render Deployment)**: [https://dashboard.render.com/web/srv-d7fjtd9kh4rs739qitd0](https://dashboard.render.com/web/srv-d7fjtd9kh4rs739qitd0)
 
+### Base Admin Credentials
+To access the administrator dashboard and features, use the following login:
+- **Email**: `admin@gmail.com`
+- **Password**: `admin123`
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Project Architecture](#project-architecture)
